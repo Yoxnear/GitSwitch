@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- The same technical icon grammar as Neo/Trinity/VELA: black tile, fine construction guides,
+       precise orange reference marks, dimensional white monogram. No gradients or glow. -->
+  <rect x="32" y="32" width="960" height="960" rx="192" fill="#090b0d"/>
+  <rect x="39" y="39" width="946" height="946" rx="186" fill="none" stroke="#292b2e" stroke-width="9"/>
+  <g stroke="#3a3b3d" fill="none" stroke-width="2" opacity="0.35">
+    <circle cx="512" cy="512" r="294"/>
+    <circle cx="512" cy="512" r="223"/>
+    <circle cx="512" cy="512" r="148"/>
+    <path d="M512 92V932M92 512H932"/>
+    <path d="M215 215L809 809 M809 215L215 809" opacity="0.3"/>
+  </g>
+  <g stroke="#292c30" stroke-width="2" opacity="0.5">
+    <path d="M174 300H850 M174 724H850 M300 174V850 M724 174V850"/>
+  </g>
+  <g stroke="#d77f32" stroke-width="11" stroke-linecap="square" fill="none">
+    <path d="M144 286V144H286 M738 144H880V286 M144 738V880H286 M738 880H880V738"/>
+  </g>
+  <g fill="#da8237">
+    <rect x="509" y="161" width="6" height="20"/>
+    <rect x="509" y="844" width="6" height="20"/>
+    <rect x="161" y="509" width="20" height="6"/>
+    <rect x="844" y="509" width="20" height="6"/>
+    <circle cx="512" cy="144" r="5"/>
+    <circle cx="512" cy="880" r="5"/>
+  </g>
+  <!-- White geometric cat head with ear silhouette, similar visual weight to Trinity logo -->
+  <path d="M280 454 L302 289 Q307 269 326 286 L399 339 Q451 315 512 315 Q573 315 625 339 L698 286 Q717 269 722 289 L744 454 Q755 568 665 641 Q608 690 512 690 Q416 690 359 641 Q269 568 280 454Z"
+        fill="#f4f5f1"/>
+  <path d="M350 399 L345 342 L398 375 M674 399 L679 342 L626 375" fill="#151718"/>
+  <ellipse cx="424" cy="495" rx="24" ry="28" fill="#0a0c0e"/>
+  <ellipse cx="600" cy="495" rx="24" ry="28" fill="#0a0c0e"/>
+  <!-- Git branch forms the face's lower expression: connected three nodes -->
+  <path d="M512 536V624 M512 574L463 603 M512 574L561 603" stroke="#0b0c0e" stroke-width="24" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="512" cy="533" r="18" fill="#0b0c0e"/>
+  <circle cx="451" cy="611" r="18" fill="#0b0c0e"/>
+  <circle cx="573" cy="611" r="18" fill="#0b0c0e"/>
+  <circle cx="512" cy="655" r="16" fill="#cf762e"/>
+</svg>
