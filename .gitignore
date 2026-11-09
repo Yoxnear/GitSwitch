@@ -1,0 +1,54 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Generated macOS bundles, debug symbols and build artifacts
+*.app/
+*.dSYM/
+*.xcresult/
+DerivedData/
+.build/
+.swiftpm/
+
+# Xcode per-user state (if the project is opened in Xcode)
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Local editor and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.log
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+.ssh/
+.gitconfig
+profiles.json
+config.backup-GitSwitch-*
+*.pem
+*.p12
+*.p8
+*.key
+id_ed25519*
+id_rsa*
+
+# macOS
+.DS_Store
+
+# Compiled applications
+*.app/
+
+# Swift build artifacts
+.build/
+DerivedData/
